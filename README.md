@@ -1,4 +1,4 @@
-# STAKEC<br>  ![STAKEC](https://stakecenter.co/client/image_coins/STAKEC.png)<br> 
+# STAKEC  ![STAKEC](https://stakecenter.co/client/image_coins/STAKEC.png)<br> 
 
 
 What is StakeCenterCash (STAKEC)?
@@ -18,6 +18,7 @@ StakeCenterCash is fork of Pivx, improved with some of the following features:
 - Intregated BIP38, multisignature, blockexplorer, wallet repair and multisend functions in wallet
 - Low transaction fee
 
+![STAKEC](https://stakecenter.co/client/image_coins/wallet.png)
 
 StakeCenterCash Specifications:
 - Coin Name: StakeCenterCash
