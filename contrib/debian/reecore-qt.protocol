@@ -1,0 +1,11 @@
+[Protocol]
+exec=StakeCenterCash-qt '%u'
+protocol=StakeCenterCash
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
