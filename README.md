@@ -1,4 +1,4 @@
-# STAKEC  
+# STAKEC  <br>
 
 
 What is StakeCenterCash (STAKEC)?
