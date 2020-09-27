@@ -1,4 +1,4 @@
-# STAKEC ![STAKEC](https://stakecenter.co/client/image_coins/STAKEC.png)<br> 
+# STAKEC<br>  ![STAKEC](https://stakecenter.co/client/image_coins/STAKEC.png)<br> 
 
 
 What is StakeCenterCash (STAKEC)?
@@ -46,11 +46,11 @@ POS Rewards:
 
 # STAKEC important links
 ```
-Website: https://stakecenter.co
-Whitepaper: https://stakecenter.co/files/White-Paper.1.0.pdf
-Block Explorer :  http://explorer.stakecenter.co:4444/
-Github : https://github.com/StakeCenterco
-Official Twitter: https://twitter.com/StakeCenterco
-Discord: https://discord.gg/yZCbNsF
-StakeCenterCash Buy/Sell: https://stakecenter.co/client/exchange/BTC/STAKEC
+Website: https://stakecenter.co<br> 
+Whitepaper: https://stakecenter.co/files/White-Paper.1.0.pdf<br> 
+Block Explorer :  http://explorer.stakecenter.co:4444/<br> 
+Github : https://github.com/StakeCenterco<br> 
+Official Twitter: https://twitter.com/StakeCenterco<br> 
+Discord: https://discord.gg/yZCbNsF<br> 
+StakeCenterCash Buy/Sell: https://stakecenter.co/client/exchange/BTC/STAKEC<br> 
 ```
