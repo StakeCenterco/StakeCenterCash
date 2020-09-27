@@ -45,6 +45,7 @@ POS Rewards:
 14001   >  2.5 coins
 ```
 # STAKEC important links
+Wallets<br>
 Website: https://stakecenter.co<br> 
 Whitepaper: https://stakecenter.co/files/White-Paper.1.0.pdf<br> 
 Block Explorer :  http://explorer.stakecenter.co:4444/<br> 
