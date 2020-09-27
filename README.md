@@ -1,4 +1,4 @@
-# STAKEC ![STAKEC Logo](https://stakecenter.co/images_coins/STAKEC.png)<br> 
+# STAKEC ![STAKEC Logo](https://stakecenter.co/client/image_coins/STAKEC.png)<br> 
 
 
 What is StakeCenterCash (STAKEC)?
