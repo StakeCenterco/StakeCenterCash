@@ -53,7 +53,7 @@ Windows qt 64 bit: https://stakecenter.co/client/wallets/StakeCenterCash-qt64bit
 Windows cli 32 bit: https://stakecenter.co/client/wallets/StakeCenterCash32bitwin-cli.zip<br>
 Windows cli 32 bit: https://stakecenter.co/client/wallets/StakeCenterCash64bitwin-cli.zip<br>
 Website: https://stakecenter.co<br> 
-Whitepaper: https://stakecenter.co/files/White-Paper.1.0.pdf<br> 
+Whitepaper: https://stakecenter.co/client/wallets/WhitePaper-StakeCenter.co.pdf<br> 
 Block Explorer :  http://explorer.stakecenter.co:4444/<br> 
 Github : https://github.com/StakeCenterco<br> 
 Official Twitter: https://twitter.com/StakeCenterco<br> 
