@@ -43,8 +43,6 @@ POS Rewards:
 3001    -  7000:  10 coins
 7001    -  14000:  5 coins
 14001   >  2.5 coins
-
-
 ```
 # STAKEC important links
 Website: https://stakecenter.co<br> 
