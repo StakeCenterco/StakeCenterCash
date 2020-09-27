@@ -46,6 +46,12 @@ POS Rewards:
 ```
 # STAKEC important links
 Wallets<br>
+Linux daemon: https://stakecenter.co/client/StakeCenterCash-linux-daemon.zip
+Linux qt: https://stakecenter.co/client/StakeCenterCash-qt-linux.zip
+Windows qt 32 bit: https://stakecenter.co/client/StakeCenterCash-qt32bitwin.zip
+Windows qt 64 bit: https://stakecenter.co/client/StakeCenterCash-qt64bitwin.zip
+Windows cli 32 bit: https://stakecenter.co/client/StakeCenterCash32bitwin-cli.zip
+Windows cli 32 bit: https://stakecenter.co/client/StakeCenterCash64bitwin-cli.zip
 Website: https://stakecenter.co<br> 
 Whitepaper: https://stakecenter.co/files/White-Paper.1.0.pdf<br> 
 Block Explorer :  http://explorer.stakecenter.co:4444/<br> 
