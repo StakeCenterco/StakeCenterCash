@@ -45,8 +45,6 @@ POS Rewards:
 14001   >  2.5 coins
 
 
-
-
 ```
 # STAKEC important links
 Website: https://stakecenter.co<br> 
