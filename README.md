@@ -58,5 +58,6 @@ Block Explorer :  http://explorer.stakecenter.co:4444/<br>
 Github : https://github.com/StakeCenterco<br> 
 Official Twitter: https://twitter.com/StakeCenterco<br> 
 Discord: https://discord.gg/yZCbNsF<br> 
-StakeCenterCash Buy/Sell: https://stakecenter.co/client/exchange/BTC/STAKEC<br> 
+StakeCenterCash Buy/Sell: https://stakecenter.co/client/exchange/BTC/STAKEC<br>
+Bitcointalk: https://bitcointalk.org/index.php?topic=5278523.0<br>
 
