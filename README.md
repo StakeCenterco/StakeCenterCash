@@ -46,8 +46,9 @@ POS Rewards:
 
 
 
-# STAKEC important links
+
 ```
+# STAKEC important links
 Website: https://stakecenter.co<br> 
 Whitepaper: https://stakecenter.co/files/White-Paper.1.0.pdf<br> 
 Block Explorer :  http://explorer.stakecenter.co:4444/<br> 
